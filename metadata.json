@@ -1,0 +1,8 @@
+{
+  "name": "SahayakAI - Your AI Teaching Assistant",
+  "description": "An AI-powered teaching assistant designed to help educators in India create lesson plans, worksheets, stories, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
